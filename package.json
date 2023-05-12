@@ -1,0 +1,12 @@
+{
+  "name": "work_stats",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/workStats.js",
+  "scripts": {
+    "start": "node src/workStats.js"
+  },
+  "keywords": [],
+  "author": "ikizey@gmail.com",
+  "license": "MIT"
+}

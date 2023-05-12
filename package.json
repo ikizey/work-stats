@@ -1,12 +1,17 @@
 {
   "name": "work_stats",
   "version": "0.1.0",
-  "description": "",
+  "description": "app to track work time",
   "main": "src/workStats.js",
   "scripts": {
     "start": "node src/workStats.js"
   },
   "keywords": [],
   "author": "ikizey@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "moment": "^2.29.4",
+    "nanoid": "^3.3.4"
+  }
 }
